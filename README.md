@@ -7,7 +7,7 @@
 - Machine Learning
 - Deep Learning for Model Training
 ## Overview
-This project focuses on image processing and includes 8 modules designed to perform different tasks. Each module addresses a specific aspect of image processing.
+This project focuses on image processing and includes 10 modules designed to perform different tasks. Each module addresses a specific aspect of image processing.
 ## Modules
 ### Module 1: Solving the Quadratic Equation
 
