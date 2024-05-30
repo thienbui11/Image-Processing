@@ -43,7 +43,7 @@ st.markdown(
     ## Sản phẩm
     Project cuối kỳ cho môn học xử lý ảnh số DIPR430685 dùng framework Streamlit.
 
-    ### 8 chức năng có trong bài
+    ### 10 chức năng có trong bài
     - 📙Giải phương trình bậc hai
     - 📔Phát hiện khuôn mặt
     - 📒Nhận dạng đối tượng yolo8
