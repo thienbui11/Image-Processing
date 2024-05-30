@@ -36,7 +36,7 @@ st.title ("Báo cáo đồ án cuối kỳ")
 st.title (" ")
 st.header ("GVHD: ThS. Trần Tiến Đức")
 st.header (" Mã lớp : DIPR430685_23_2_03")
-st.header ("Học kỳ: 1")
+st.header ("Học kỳ: 2")
 st.header ("Năm học: 2023 - 2024")
 st.markdown(
     """
